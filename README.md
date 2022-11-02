@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Dennis
-- 👀 I’m a Flutter Developer @Eltako
+- ✌️ Hi, I’m Dennis
+- 👨🏻‍💻 I’m a Flutter Developer @Eltako
 
 <!---
 Dennis-Eltako/Dennis-Eltako is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
